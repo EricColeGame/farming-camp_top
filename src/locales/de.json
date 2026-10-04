@@ -1,1 +1,479 @@
-{}
+{
+  "site": {
+    "name": "Farming Camp Wiki",
+    "shortName": "Farming Camp",
+    "tagline": "Gemütliche Farming-Guides, Tipps & Aktivitäten",
+    "description": "Farming Camp ist ein gemütliches Einzelspieler-Farmspiel, in dem Spieler eine Camp-Farm bewirtschaften, tägliche Aufgaben erledigen, Mini-Spiele spielen und Freundschaften mit anderen Campern schließen.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler gemacht."
+  },
+  "nav": {
+    "home": "Startseite",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "guide": "Guides",
+    "mechanics": "Mechaniken",
+    "characters": "Charaktere",
+    "platforms": "Plattformen",
+    "release": "Release",
+    "reviews": "Reviews",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Farming Camp Wiki – Guides, Farming-Tipps & Aktivitäten",
+      "description": "Entdecke das Farming Camp Wiki mit Farming-Guides, Einsteiger-Tipps, Aktivitätsdetails, Charakterinformationen und hilfreichen Ressourcen für dein gemütliches Camp-Farm-Abenteuer."
+    },
+    "hero": {
+      "eyebrow": "Gemütlicher Farming-Abenteuer-Simulator",
+      "title": "Farming Camp Wiki",
+      "description": "Farming Camp ist ein gemütliches Einzelspieler-Farmspiel, in dem Spieler eine Camp-Farm bewirtschaften, tägliche Aufgaben erledigen, Mini-Spiele spielen und Freundschaften mit anderen Campern schließen.",
+      "stats": [
+        "30+ Steam-Reviews",
+        "5+ verfügbare Aktivitäten",
+        "0 aktive Codes",
+        "Wöchentliche Updates"
+      ],
+      "primaryCta": "Einsteigerleitfaden",
+      "secondaryCta": "Farming-Tipps",
+      "tertiaryCta": "Auf Steam spielen",
+      "videoLabel": "Offizielle Medien"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier beginnen",
+      "title": "Deine Farming-Camp-Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteigerleitfaden",
+          "description": "Lerne die ersten Schritte in Farming Camp: Feld roden, Startfrüchte pflanzen und in den täglichen Camp-Ablauf finden."
+        },
+        {
+          "number": "2",
+          "title": "Farming & Feldfrüchte",
+          "description": "Wähle die richtigen Feldfrüchte, gieße und rotiere sie und verwandle jede Ernte in stetige Münzen für Upgrades."
+        },
+        {
+          "number": "3",
+          "title": "Camper & Freundschaften",
+          "description": "Lerne die Camper um dich herum kennen, schließe Freundschaften und folge den Story- und Romanzen-Routen im Camp."
+        },
+        {
+          "number": "4",
+          "title": "Mini-Spiele & Aktivitäten",
+          "description": "Nimm an Camp-Aktivitäten wie Schädlingsbekämpfung, Holzhacken und Kochen teil, um jeden Tag zusätzliche Belohnungen zu verdienen."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Gerade angesagt",
+      "quickLinks": [
+        "Einsteigerleitfaden",
+        "Farming & Feldfrüchte",
+        "Charaktere",
+        "Mini-Spiele"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteigerleitfaden",
+          "description": "Deine ersten Tage im Camp: Einrichtung, täglicher Ablauf und frühe Upgrades.",
+          "href": "/guide/farming-camp-beginner-guide"
+        },
+        {
+          "badge": "Farming",
+          "title": "Farming & Feldfrüchte",
+          "description": "Pflanzenwahl, Fruchtfolge, Bewässerung und Layout-Tipps für eine stetige Ernte.",
+          "href": "/guide/farming-camp-farming-guide"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Charaktere & Freundschaften",
+          "description": "Lerne die Camper, ihre Rollen und den Aufbau von Freundschaften im Camp kennen.",
+          "href": "/characters/farming-camp-characters"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Mini-Spiele",
+          "description": "Kochen, Schädlingsbekämpfung und Holzhacken nach Belohnung sortiert.",
+          "href": "/guide/farming-camp-gameplay-guide"
+        },
+        {
+          "badge": "Guide",
+          "title": "Feldfrüchte & Tiere",
+          "description": "Eine schnelle Datenbank zu Feldfrüchten und Nutztieren für deine Camp-Farm.",
+          "href": "/mechanics/farming-camp-crops"
+        },
+        {
+          "badge": "Neu",
+          "title": "Camp-Verwaltung",
+          "description": "Prioritäten bei Lager, Logistik und Automatisierung für ein geschäftiges Camp.",
+          "href": "/mechanics/farming-camp-camp-management"
+        },
+        {
+          "badge": "Guide",
+          "title": "Release & Plattformen",
+          "description": "Wo du Farming Camp spielen kannst und was dich zum Start erwartet.",
+          "href": "/release/farming-camp-release-date"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "News & Updates",
+          "description": "Offizielle Ankündigungen, Trailer und Patchnotes an einem Ort.",
+          "href": "/community/farming-camp-updates"
+        },
+        {
+          "badge": "Guide",
+          "title": "Tier-Guide",
+          "description": "Ställe, Futter und Zuchtkreisläufe, die Ressourcen fließen lassen.",
+          "href": "/mechanics/farming-camp-animals"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Farming Camp?",
+      "paragraphs": [
+        "Farming Camp ist ein gemütliches Einzelspieler-Farmspiel. Du bewirtschaftest eine Camp-Farm, baust Feldfrüchte an, kümmerst dich um Tiere, erledigst tägliche Aufgaben und nimmst an Camp-Aktivitäten teil, während du Freundschaften mit den Campern um dich herum schließt.",
+        "Der Fortschritt folgt einem einfachen täglichen Ablauf: pflanzen und gießen, ernten und verkaufen, dann in Lager, Werkzeuge und neue Felder reinvestieren. Unsere Guides behandeln Einsteiger-Einrichtung, Pflanzen- und Tierhaltung, Charaktere, Missionen, Mini-Spiele und Plattformdetails."
+      ],
+      "stats": [
+        {
+          "label": "Publisher",
+          "value": "SOEDESCO"
+        },
+        {
+          "label": "Genre",
+          "value": "Gemütliche Farming-Sim"
+        },
+        {
+          "label": "Modus",
+          "value": "Einzelspieler"
+        },
+        {
+          "label": "Plattformen",
+          "value": "PC, Switch, PS5, Xbox"
+        },
+        {
+          "label": "Steam-App-ID",
+          "value": "2985880"
+        },
+        {
+          "label": "Aktivitäten",
+          "value": "5+"
+        }
+      ],
+      "cta": "Alle Guides entdecken"
+    },
+    "explore": {
+      "title": "Farming Camp entdecken",
+      "description": "Durchsuche alle Farming-Camp-Guides an einem Ort: Einsteiger-Einrichtung, Farming und Feldfrüchte, Charaktere, Missionen, Mini-Spiele, Tiere, Release-Infos und Community-Updates.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Farming Camp Einsteigerleitfaden",
+          "description": "Ein einsteigerfreundlicher Walkthrough der ersten Schritte in Farming Camp mit Farm-Einrichtung, täglichem Ablauf, frühen Upgrades und Fehlern, die du vermeiden solltest.",
+          "href": "/guide/farming-camp-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Rode dein Startfeld und pflanze deine ersten schnell wachsenden Feldfrüchte."
+            },
+            {
+              "label": "2",
+              "detail": "Gieße und pflege die Feldfrüchte täglich, dann ernte und verkaufe sie für Münzen."
+            },
+            {
+              "label": "3",
+              "detail": "Investiere Münzen in Lager, Werkzeuge und zusätzliche Felder, bevor du dekorierst."
+            },
+            {
+              "label": "4",
+              "detail": "Sprich mit Campern und erfülle frühe Aufgaben, um Camp-Aktivitäten freizuschalten."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Farming Camp Farming-Guide",
+          "description": "Ein ausführlicher Farming-Camp-Farming-Guide zu Pflanzenwahl, Fruchtfolge, Bewässerung, Layout und der Upgrade-Reihenfolge, die deine Farm produktiv hält.",
+          "href": "/guide/farming-camp-farming-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Layout",
+              "detail": "Teile Feldfrüchte, Lager und Wege so ein, dass deine tägliche Route kurz bleibt."
+            },
+            {
+              "label": "Fruchtfolge",
+              "detail": "Nutze Folgepflanzung statt einer großen Ernte, um das Einkommen zu glätten."
+            },
+            {
+              "label": "Upgrades",
+              "detail": "Priorisiere Lager und Werkzeuge vor dekorativen Camp-Gegenständen."
+            },
+            {
+              "label": "Fehler",
+              "detail": "Vermeide frühen Überbau und lass geerntete Feldfrüchte nicht unverkauft liegen."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Farming Camp Charakter-Guide",
+          "description": "Ein Farming-Camp-Charakter-Guide zu den Campern, die du triffst, ihren Rollen, Freundschafts- und Romanzen-Routen und dem Aufbau eines ausgewogenen Camp-Teams.",
+          "href": "/characters/farming-camp-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Produzenten",
+              "detail": "Camper, die Feldfrüchte, Tiere und Materialien in Fluss halten."
+            },
+            {
+              "label": "Verarbeiter",
+              "detail": "Charaktere, die rohe Ernten in höherwertige Waren verwandeln."
+            },
+            {
+              "label": "Unterstützung",
+              "detail": "Helfer, die tägliche Aufgaben und die Logistik rund ums Camp beschleunigen."
+            },
+            {
+              "label": "Verteidiger",
+              "detail": "Camper, die deine Farm und Ressourcen vor Schädlingen und Schäden schützen."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Farming Camp Missions-Guide",
+          "description": "Ein Missions- und Aktivitätsguide, der zeigt, wie du Pflichten erledigst, Kurse besuchst, Camp-Herausforderungen abschließt und während des Farming-Wettbewerbs Punkte sammelst.",
+          "href": "/guide/farming-camp-gameplay-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Pflichten",
+              "detail": "Tägliche Pflichten sind die schnellste wiederholbare Quelle für Camp-Punkte."
+            },
+            {
+              "label": "Kurse",
+              "detail": "Besuche Camp-Kurse, um neue Werkzeuge und Farming-Vorteile freizuschalten."
+            },
+            {
+              "label": "Herausforderungen",
+              "detail": "Zeitlich begrenzte Herausforderungen belohnen mit Bonusmünzen und seltenen Gegenständen."
+            },
+            {
+              "label": "Punkte",
+              "detail": "Gib Wettbewerbspunkte vor dem Saisonende für Upgrades aus."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Farming Camp Mini-Spiele-Guide",
+          "description": "Ein Farming-Camp-Mini-Spiele-Guide, der Schädlingsbekämpfung, Holzhacken, Kochen und andere Camp-Aktivitäten nach ihren Belohnungen einordnet.",
+          "href": "/guide/farming-camp-gameplay-guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Kochen – höchste Münzauszahlung und Freischaltung von Camp-Rezepten."
+            },
+            {
+              "label": "A",
+              "detail": "Schädlingsbekämpfung – schnelle tägliche Münzen mit geringem Zeitaufwand."
+            },
+            {
+              "label": "B",
+              "detail": "Holzhacken – nützliche Materialien mit geringerer Münzauszahlung."
+            },
+            {
+              "label": "C",
+              "detail": "Sammeln – einfache Startaktivität mit kleinen Belohnungen."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Farming Camp Feldfrüchte und Tiere",
+          "description": "Ein datenbankartiges Farming-Camp-Modul, das die anbaubaren Feldfrüchte und Tiere auflistet und zeigt, wie jedes in deine Farmwirtschaft passt.",
+          "href": "/mechanics/farming-camp-crops",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Weizen",
+              "detail": "Schnell wachsende Startfrucht mit zuverlässigem, risikoarmem Gewinn."
+            },
+            {
+              "label": "Mais",
+              "detail": "Starke Frucht für die Spielmitte, die sich gut in großen Mengen verkauft."
+            },
+            {
+              "label": "Tomaten",
+              "detail": "Hochwertige Frucht, die regelmäßiges Gießen braucht."
+            },
+            {
+              "label": "Hühner",
+              "detail": "Kostengünstige Tiere, die täglich Eier und Materialien produzieren."
+            },
+            {
+              "label": "Kühe",
+              "detail": "Teures Nutzvieh mit stetiger Milch- und Düngerproduktion."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Farming Camp Release-Datum und Plattformen",
+          "description": "Ein Referenzabschnitt zu Release-Informationen, unterstützten Plattformen, Editionen und Verfügbarkeit von Farming Camp auf PC und Konsolen.",
+          "href": "/release/farming-camp-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Steam",
+              "detail": "Spiele Farming Camp auf dem PC über den Steam-Store."
+            },
+            {
+              "label": "Switch",
+              "detail": "Handheld- und Docked-Spiel auf der Nintendo Switch."
+            },
+            {
+              "label": "PS5",
+              "detail": "Konsolen-Release-Details für die PlayStation 5."
+            },
+            {
+              "label": "Xbox",
+              "detail": "Xbox-Verfügbarkeit und Store-Eintrag."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Farming Camp News und Updates",
+          "description": "Ein News-Bereich, der offizielle Farming-Camp-Ankündigungen, Trailer, Launch-Updates und Community-Informationen sammelt.",
+          "href": "/community/farming-camp-updates",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "News",
+              "detail": "Offizielle Farming-Camp-Ankündigungen und Blogbeiträge."
+            },
+            {
+              "label": "Trailer",
+              "detail": "Ankündigungs- und Gameplay-Trailer, sobald sie erscheinen."
+            },
+            {
+              "label": "Updates",
+              "detail": "Patchnotes, Fehlerbehebungen und saisonale Inhaltsänderungen."
+            },
+            {
+              "label": "Community",
+              "detail": "Highlights aus Steam-, Discord- und Reddit-Diskussionen."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Farming Camp FAQ",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu Farming Camp.",
+      "items": [
+        {
+          "question": "Was ist Farming Camp?",
+          "answer": "Farming Camp ist ein gemütliches Einzelspieler-Farmspiel. Du führst eine Camp-Farm, baust Feldfrüchte an, hältst Tiere, erledigst tägliche Aufgaben und nimmst an Camp-Aktivitäten teil, während du Freundschaften mit anderen Campern schließt."
+        },
+        {
+          "question": "Was sollten Anfänger in Farming Camp zuerst tun?",
+          "answer": "Rode dein Startfeld, pflanze schnell wachsende Feldfrüchte und investiere deine ersten Münzen in Lager und Werkzeuge, bevor du für Dekorationen ausgibst."
+        },
+        {
+          "question": "Auf welchen Plattformen ist Farming Camp verfügbar?",
+          "answer": "Farming Camp ist auf PC über Steam, Nintendo Switch, PlayStation 5 und Xbox verfügbar."
+        },
+        {
+          "question": "Gibt es in Farming Camp Codes oder Mehrspieler?",
+          "answer": "Nein. Farming Camp ist ein Einzelspielerspiel ohne Einlösecodes und ohne Mehrspielermodus, daher wird dein gesamter Fortschritt in deinem eigenen Spiel gespeichert."
+        },
+        {
+          "question": "Wie komme ich in Farming Camp schneller voran?",
+          "answer": "Halte den täglichen Ablauf am Laufen: rechtzeitig gießen und ernten, jede Ernte verkaufen, Pflichten und Kurse für Punkte abschließen und Lager sowie Werkzeuge vor Kosmetik aufwerten."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Farming Camp zu meistern?",
+      "description": "Von deinen ersten Feldfrüchten auf der Camp-Farm bis zu gemütlichen täglichen Aktivitäten mit anderen Campern – unser Community-Wiki bietet dir kostenlose, aktuelle Guides.",
+      "primary": "Den Einsteigerleitfaden lesen",
+      "secondary": "Auf Steam spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Farming Camp Guides",
+    "overviewDescription": "Schritt-für-Schritt-Guides zu Farming Camp mit Einsteiger-Walkthrough, Farming-Routinen, Camp-Verwaltung und den Tipps, die neue Camper in ihren ersten Stunden brauchen."
+  },
+  "mechanics": {
+    "overviewTitle": "Farming Camp Spielmechaniken",
+    "overviewDescription": "Erfahre, wie die Systeme von Farming Camp funktionieren – von Feldfrüchten und Tieren bis zu Camp-Verwaltung, Individualisierung und Romanzen-Fortschritt."
+  },
+  "characters": {
+    "overviewTitle": "Farming Camp Charaktere",
+    "overviewDescription": "Lerne die Besetzung von Farming Camp kennen, darunter Romanzen-Optionen, NPCs und die Story-Charaktere, die das Leben im Camp prägen."
+  },
+  "platforms": {
+    "overviewTitle": "Farming Camp Plattformen",
+    "overviewDescription": "Prüfe, auf welchen Plattformen Farming Camp verfügbar ist, darunter Steam, Nintendo Switch, Switch 2, PS5 und Xbox."
+  },
+  "release": {
+    "overviewTitle": "Farming Camp Release",
+    "overviewDescription": "Verfolge Release-Termine, Launch-Details, Demo-Verfügbarkeit, Preise und Informationen zu physischen Kopien von Farming Camp."
+  },
+  "reviews": {
+    "overviewTitle": "Farming Camp Reviews",
+    "overviewDescription": "Lies Reviews, Gameplay-Eindrücke und Trailer-Analysen zu Farming Camp und erfahre, ob sich das Spiel lohnt."
+  },
+  "community": {
+    "overviewTitle": "Farming Camp Community",
+    "overviewDescription": "Folge den News, offiziellen Kanälen, Reddit- und Steam-Diskussionen und den neuesten Updates zu Farming Camp."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Farming Camp Wiki",
+    "about": "Das Farming Camp Wiki ist ein unabhängiges, von Fans erstelltes Guide-Portal zu Farming, Feldfrüchten, Tieren, Camp-Aktivitäten, Charakteren und wichtigem Spielwissen für neue und erfahrene Spieler gleichermaßen.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Farming Camp Wiki. Nicht mit Emberflame Studio oder SOEDESCO verbunden.",
+    "description": "Gemütliche Einzelspieler-Farming-Simulation. Bewirtschafte deine Camp-Farm, erledige tägliche Aufgaben und freunde dich mit anderen Campern an.",
+    "playGame": "Farming Camp auf Steam spielen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizielles YouTube",
+    "vvBuilder": "Steam-Community-Hub",
+    "beginnerGuide": "Einsteigerleitfaden",
+    "characterGuides": "Charaktere",
+    "mechanicsGuides": "Mechaniken",
+    "platformGuides": "Plattformen",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}
