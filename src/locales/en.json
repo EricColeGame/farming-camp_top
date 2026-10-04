@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "platforms": "Platforms",
+    "release": "Release",
+    "reviews": "Reviews",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -405,7 +412,34 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Farming Camp Guides",
+    "overviewDescription": "Step-by-step Farming Camp guides covering the beginner walkthrough, farming routines, camp management, and the tips new campers need in their first hours."
+  },
+  "mechanics": {
+    "overviewTitle": "Farming Camp Game Mechanics",
+    "overviewDescription": "Learn how Farming Camp systems work, from crops and animals to camp management, customization, and romance progression."
+  },
+  "characters": {
+    "overviewTitle": "Farming Camp Characters",
+    "overviewDescription": "Meet the Farming Camp cast, including romance options, NPCs, and the story characters who shape life at the camp."
+  },
+  "platforms": {
+    "overviewTitle": "Farming Camp Platforms",
+    "overviewDescription": "Check which platforms Farming Camp is available on, including Steam, Nintendo Switch, Switch 2, PS5, and Xbox."
+  },
+  "release": {
+    "overviewTitle": "Farming Camp Release",
+    "overviewDescription": "Track Farming Camp release dates, launch details, demo availability, pricing, and physical copy information."
+  },
+  "reviews": {
+    "overviewTitle": "Farming Camp Reviews",
+    "overviewDescription": "Read Farming Camp reviews, gameplay impressions, trailer breakdowns, and whether the game is worth it."
+  },
+  "community": {
+    "overviewTitle": "Farming Camp Community",
+    "overviewDescription": "Follow Farming Camp news, official channels, Reddit and Steam community discussions, and the latest updates."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -436,9 +470,9 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Steam Community Hub",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "characterGuides": "Characters",
+    "mechanicsGuides": "Mechanics",
+    "platformGuides": "Platforms",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
